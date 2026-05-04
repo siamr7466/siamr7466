@@ -8,8 +8,8 @@ I'm a **Full-Stack Developer** and **CSE Student** at BUBT. I specialize in buil
 
 ### Tech Stack
 - **Languages:** JavaScript, Dart, C, Node.js
-- **Frameworks/Libraries:** React, Flutter
-- **Tools:** Linux, Git, VS Code
+- **Frameworks/Libraries:** React, Flutter, Tailwind.
+- **Tools:** Linux, Git, VS Code, Android Studio.
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siamrahman76)
