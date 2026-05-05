@@ -46,7 +46,7 @@ I specialize in creating modern, efficient, and user-centered digital products u
 
 ## 🎯 Professional Approach
 
-I believe in writing clean, maintainable, and scalable code that solves real-world problems. Learning AI 
+I believe in writing clean, maintainable, and scalable code that solves real-world problems. Learning AI and Using
 
 I enjoy working on meaningful projects that challenge my abilities, improve my development skills, and create real value for users.
 
