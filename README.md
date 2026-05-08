@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer** | 📚 **CSE Student at BUBT** | 🚀 Passionate About Building Modern Digital Solutions
 
-I am a **Full-Stack Developer** and a **Computer Science & Engineering (CSE) Student** at **Bangladesh University of Business and Technology (BUBT)**, focused on building scalable web applications and cross-platform mobile solutions.
+I am a **Full-Stack Developer** and a **Computer Science & Engineering (CSE) Student** at **Bangladesh University of Business and Technology (BUBT)**, focused on building scalable web applications and cross-platform (Flutter) mobile solutions.
 
 I specialize in creating modern, efficient, and user-centered digital products using both frontend and backend technologies. My goal is to develop solutions that are not only functional, but also impactful, reliable, and user-friendly.
 
