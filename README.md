@@ -6,7 +6,7 @@ I am a **Full-Stack Developer** and a **Computer Science & Engineering (CSE) Stu
 
 I specialize in creating modern, efficient, and user-centered digital products using both frontend and backend technologies. My goal is to develop solutions that are not only functional, but also impactful, reliable, and user-friendly.
 
----
+------
 
 ## 🚀 Current Focus
 
@@ -18,7 +18,7 @@ I specialize in creating modern, efficient, and user-centered digital products u
 
 ⚡ Fun fact: I enjoy balancing coding, problem-solving, and professional growth at the same time.
 
----
+------
 
 ## 🛠️ Tech Stack
 
