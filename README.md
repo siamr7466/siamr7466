@@ -42,7 +42,7 @@ I specialize in creating modern, efficient, and user-centered digital products u
 * Visual Studio Code
 * Android Studio
 
----
+-----
 
 ## 🎯 Professional Approach
 
